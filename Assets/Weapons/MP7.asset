@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0aaa64ad8895d9f43af7c08169f9f956, type: 3}
+  m_Name: MP7
+  m_EditorClassIdentifier: 
+  DisplayName: MP7
+  ShotDelay: 0.06315789
+  ReloadTime: 0.8
+  AfterReloadDeployTime: 0.2
+  DeployTime: 0.2
+  FullAuto: 1
+  AmmoClipSize: 30
+  BaseDamage: 15
+  bulletsPerShot: 1
+  MinSpread: 0.5
+  MaxSpread: 4
+  Recoil: 0.1
+  RecoilRecovery: 0.4
+  WeaponMesh: {fileID: 2941274158721294118, guid: 4f8e9a53e2dafb748b77751f880bd2f2, type: 3}
+  WeaponMaterial: {fileID: 631383318928474666, guid: 4f8e9a53e2dafb748b77751f880bd2f2, type: 3}
+  WeaponSound: {fileID: 8300000, guid: 3b84efbc33927e140907d36a783714aa, type: 3}
+  SoundStartTime: 0.09
+  RelPos: {x: 0, y: -0.21, z: 0.98}
+  RelRot: {x: -90, y: 0, z: -90}
